@@ -1,0 +1,29 @@
+From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008
+X-Authentication-Warning: uct.ac.za: stephen.marquard owned process doing -bs
+
+From louis@media.berkeley.edu Fri Jan  4 18:10:48 2008
+X-Authentication-Warning: media.berkeley.edu: louis owned process doing -bs
+
+From zqian@umich.edu Sat Jan  5 16:10:39 2008
+X-Authentication-Warning: umich.edu: zqian owned process doing -bs
+
+From rjlowe@iupui.edu Thu Jan  3 14:07:48 2008
+X-Authentication-Warning: iupui.edu: rjlowe owned process doing -bs
+
+From cwen@iupui.edu Thu Jan  3 14:10:39 2008
+X-Authentication-Warning: iupui.edu: cwen owned process doing -bs
+
+From gopal.ramasammycook@gmail.com Fri Jan  4 09:15:16 2008
+X-Authentication-Warning: gmail.com: gopal.ramasammycook owned process doing -bs
+
+From antranig@caret.cam.ac.uk Thu Jan  3 19:14:48 2008
+X-Authentication-Warning: caret.cam.ac.uk: antranig owned process doing -bs
+
+From david.horwitz@uct.ac.za Fri Jan  4 07:12:48 2008
+X-Authentication-Warning: uct.ac.za: david.horwitz owned process doing -bs
+
+From wagnermr@iupui.edu Sat Jan  5 11:10:39 2008
+X-Authentication-Warning: iupui.edu: wagnermr owned process doing -bs
+
+From ray@media.berkeley.edu Fri Jan  4 15:15:48 2008
+X-Authentication-Warning: media.berkeley.edu: ray owned process doing -bs
